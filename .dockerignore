@@ -1,0 +1,8 @@
+Dockerfile
+Makefile
+*.yml
+*.yaml
+.env*
+venv/
+.git/
+.*
